@@ -3,6 +3,7 @@ Chalenge: Given two sorted arrays nums1 and nums2 of size m and n respectively, 
 '''
 
 # Random List generator:
+import random
 
 x = random.randrange(0,25)
 y = random.randrange(0,25)
