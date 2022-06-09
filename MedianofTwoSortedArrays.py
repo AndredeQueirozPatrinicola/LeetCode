@@ -29,7 +29,6 @@ def findMedianSortedArrays(nums1, nums2) -> float:
         resultado = (numero1 + numero2) / 2
     else:
         meio = len(nums1) / 2
-        print(meio)
         mediana = meio - 0.5
         conversao = int(mediana)
         resultado = nums1[conversao]
