@@ -10,7 +10,7 @@ Explanation: 342 + 465 = 807.
 '''
 '''
 There are some issues about LeetCode assumptions of declared lists(when you declare a list "l1=[1,2,3]", leetcode read as a Nodelist not a regular list)
-which prevents some list methods to work property. I'm working on the conversion, mean while, thats the general logic of solving the exercise.
+which prevents some list methods to work property. I'm working on the conversion, meanwhile, thats the general logic of solving the exercise.
 '''
 l1 = [2,4,3]
 l2 = [5,6,4]
