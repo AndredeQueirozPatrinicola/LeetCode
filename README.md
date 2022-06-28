@@ -1,5 +1,5 @@
 # LeetCode
-Some leetcode solutions
 
-###### Comments:
+
+###### Some leetcode solutions to study algorithms
 
